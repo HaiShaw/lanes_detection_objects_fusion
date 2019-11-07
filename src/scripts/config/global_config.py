@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 # @Author  : HaiShaw (modifier)
-# @Site    : https://github.com/HaiShaw
+# @Site    : https://github.com/MayYoulikeDLCV
 # @File    : global_config.py
 """
 Set global configuration

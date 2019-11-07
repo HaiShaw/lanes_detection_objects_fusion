@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# @Author  : HaiShaw (modifier)
-# @Site    : https://github.com/HaiShaw
+# @Author  : HaiShaw
+# @Site    : https://github.com/MayYoulikeDLCV
 # @File    : lanenet_postprocess.py
 """
 LaneNet model post process

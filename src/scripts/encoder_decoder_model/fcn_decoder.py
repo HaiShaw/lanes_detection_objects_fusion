@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# @Site    : https://github.com/HaiShaw
+# @Site    : https://github.com/MayYoulikeDLCV
 # @File    : fcn_decoder.py
 """
 实现一个全卷积网络解码类

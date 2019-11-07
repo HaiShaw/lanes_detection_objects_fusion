@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# @Site    : https://github.com/HaiShaw
+# @Site    : https://github.com/MayYoulikeDLCV
 # @File    : lanenet_discriminative_loss.py
 """
 Discriminative Loss for instance segmentation
