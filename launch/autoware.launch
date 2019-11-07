@@ -1,0 +1,7 @@
+<!-- Files below & autoware.launch placed at ~/Autoware in autow12 docker -->
+<launch>
+    <include file="$(env PWD)/vision.launch"/>
+    <include file="$(env PWD)/localization.launch"/>
+    <include file="$(env PWD)/mission_planning.launch"/>
+    <include file="$(env PWD)/motion_planning.launch"/>
+</launch>

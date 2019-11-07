@@ -1,0 +1,26 @@
+<!-- -->
+<launch>
+  <!--
+  <include file="$(find carla_autoware_bridge)/launch/carla_autoware_bridge_with_manual_control.launch">
+    <arg name='host' default='$(arg host)'/>
+    <arg name='port' default='$(arg port)'/>
+  </include>
+  -->
+
+  <include file="./install/points_preprocessor/share/points_preprocessor/launch/ray_ground_filter.launch">
+  </include>
+
+  <include file="./install/runtime_manager/share/runtime_manager/launch_files/calibration_publisher.launch">
+  </include>
+
+  <include file="./install/vision_darknet_detect/share/vision_darknet_detect/launch/vision_yolo3_detect.launch">
+  </include>
+
+  <include file="./install/lidar_euclidean_cluster_detect/share/lidar_euclidean_cluster_detect/launch/lidar_euclidean_cluster_detect.launch">
+  </include>
+
+  <include file="./install/range_vision_fusion/share/range_vision_fusion/launch/range_vision_fusion.launch">
+  </include>
+
+</launch>
+
