@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-# @Site    : https://github.com/MayYoulikeDLCV
+# @Site    : https://github.com/MayYoulike-DLCV
 # @File    : cnn_basenet.py
 """
 The base convolution neural networks mainly implement some useful cnn functions

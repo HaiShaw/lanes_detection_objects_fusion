@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# @Site    : https://github.com/MayYoulikeDLCV
+# @Site    : https://github.com/MayYoulike-DLCV
 # @File    : vgg16_based_fcn.py
 """
 Implement VGG16 based fcn net for semantic segmentation

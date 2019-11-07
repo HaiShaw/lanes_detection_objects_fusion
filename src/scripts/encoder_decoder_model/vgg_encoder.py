@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# @Site    : https://github.com/MayYoulikeDLCV
+# @Site    : https://github.com/MayYoulike-DLCV
 # @File    : vgg_encoder.py
 """
 实现一个基于VGG16的特征编码类

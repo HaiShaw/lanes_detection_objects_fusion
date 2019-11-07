@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# @Site    : https://github.com/MayYoulikeDLCV
+# @Site    : https://github.com/MayYoulike-DLCV
 # @File    : lanenet_back_end.py
 """
 LaneNet backend branch which is mainly used for binary and instance segmentation loss calculation
